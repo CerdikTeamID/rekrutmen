@@ -9,9 +9,9 @@ Source Code Aplikasi ini sudah dilakukan testing dan hasilnya dapat berjalan den
 *******************
 System Requirements
 *******************
-Bahasa : PHP 7.4
-Database : MySQL
-Server : Xampp
+-  Bahasa : PHP 7.4
+-  Database : MySQL
+-  Server : Xampp
 
 *******************
 Fitur Aplikasi 
@@ -33,16 +33,16 @@ Fitur Aplikasi
 Installation
 ************
 
-Download dan Instal aplikasi Xampp di Komputer.
-Ekstrak file menggunakan aplikasi WinRAR.
-Copy folder rekrutmen, lalu paste ke folder htdocs.
-Aktifkan Apache dan MySQL pada Xampp.
-Buka browser, lalu buka alamat localhost/phpmyadmin.
-Buat database baru dengan nama rekrutmen.
-Import database aplikasi ke dalam database rekrutmen.
-Jalankan aplikasi dengan ketik localhost/rekrutmen.
-Logig akun
-Selesai.
+-  Download dan Instal aplikasi Xampp di Komputer.
+-  Ekstrak file menggunakan aplikasi WinRAR.
+-  Copy folder rekrutmen, lalu paste ke folder htdocs.
+-  Aktifkan Apache dan MySQL pada Xampp.
+-  Buka browser, lalu buka alamat localhost/phpmyadmin.
+-  Buat database baru dengan nama rekrutmen.
+-  Import database aplikasi ke dalam database rekrutmen.
+-  Jalankan aplikasi dengan ketik localhost/rekrutmen.
+-  Login akun
+-  Selesai.
 
 *******
 License
