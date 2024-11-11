@@ -17,17 +17,17 @@ Server : Xampp
 Fitur Aplikasi 
 *******************
 
--- Login Multi User
--- Register User
--- Dashboard
--- Data Departemen
--- Data Jabatan
--- Data User
--- Data Lowongan
--- Data Pelamar
--- Data Laporan
--- Data Profil
--- Logout
+-  Login Multi User
+-  Register User
+-  Dashboard
+-  Data Departemen
+-  Data Jabatan
+-  Data User
+-  Data Lowongan
+-  Data Pelamar
+-  Data Laporan
+-  Data Profil
+-  Logout
 
 ************
 Installation
